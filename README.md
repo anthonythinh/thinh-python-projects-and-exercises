@@ -1,2 +1,1 @@
-# thinh-python-projects-and-exercises
-thinh python projects and exercises
+My python and code python 
